@@ -16,30 +16,5 @@
   "profile": {
     "name": "typicode"
   },
-  "employees": [
-    {
-      "id": "490b",
-      "firstName": "Mohit",
-      "lastName": "Sharma",
-      "email": "Mohit@gmail.com",
-      "dob": "2024-02-29T18:30:00.000Z",
-      "gender": "",
-      "education": "Graduate",
-      "company": "CargoFlash",
-      "experience": 1,
-      "package": 1
-    },
-    {
-      "id": "1a2f",
-      "firstName": "wq",
-      "lastName": "qw",
-      "email": "dd",
-      "dob": "2024-02-29T18:30:00.000Z",
-      "gender": "",
-      "education": "Matric",
-      "company": "d",
-      "experience": 1,
-      "package": 1
-    }
-  ]
+  "employees": []
 }
